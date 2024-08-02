@@ -1,1 +1,3 @@
 # Gold-Price-Prediction
+
+I completed a machine learning project focused on predicting gold prices. The project involved collecting historical gold price data, preprocessing it, and applying various machine learning algorithms to develop predictive models. Techniques such as linear regression, decision trees, and neural networks were evaluated for accuracy and performance. The final model provided insights into future gold price trends, demonstrating the potential of machine learning in financial forecasting. A detailed report and presentation were created to showcase the methodology and results.
